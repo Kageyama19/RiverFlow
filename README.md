@@ -4,10 +4,6 @@ RiverFlow is a collaborative Q&A platform inspired by Stack Overflow, built usin
 
 ---
 
-![Project Structure](image2)
-
----
-
 ## Features
 
 - **Ask & Answer Questions:** Users can post questions and provide answers, fostering collaborative problem-solving.
